@@ -15,6 +15,7 @@
 ## Loop in typescript
 
 `let sports: string[] = ["Cricket" , "Football" , "Tennis" , "Athletics"];
+
 sports.push("Basketball");
 
 for(let sport of sports)
@@ -24,10 +25,13 @@ for(let sport of sports)
 
 let numberArr:number[]=[10 ,9 ,12,14,19];
 //let numberArr =[10 ,9 ,12,14,19];
+
 let total = 0;
+
 for(let i =0 ; i< numberArr.length ;i ++)
 {
 	//console.log(i);
+	
 	total+=numberArr[i];
 }
 
