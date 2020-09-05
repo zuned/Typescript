@@ -64,7 +64,7 @@ console.log("Total= "+total +" Element count = " +numberArr.length + " Average =
 ### Typescript offer special type of Getters And Setters Method known Accessor
  By Default we can add getter and setters add use to access the private properties, Please <strong>CustomerV2.ts</strong>
  
- We can also 
+ We can also through <strong>Accessor</strong>, Please <strong>CustomerV3.ts</strong>. 
  
  <strong>Got this Error</strong> `Accessors are only available when targeting ECMAScript 5 and higher`
  
