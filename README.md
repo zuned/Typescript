@@ -38,3 +38,10 @@ for(let i =0 ; i< numberArr.length ;i ++)
 console.log("Total= "+total +" Element count = " +numberArr.length + " Average ="+ total/ numberArr.length );`
    
 ## class in Typescript
+
+### access modifier
+ - public     -> access to all classs[default] 
+ - protected  -> access to current and subclass
+ - private    -> access to current class
+ 
+### constructor 
