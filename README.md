@@ -45,3 +45,12 @@ console.log("Total= "+total +" Element count = " +numberArr.length + " Average =
  - private    -> access to current class
  
 ### constructor 
+`class Customer {`
+ `fName: string;
+ lName : string;`
+ `constructor(fName:string ,lName:string)`
+ `{`
+	`this.fName = fName;
+	this.lName = lName;`
+ `}`
+`}`
