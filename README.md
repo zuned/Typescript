@@ -60,3 +60,8 @@ console.log("Total= "+total +" Element count = " +numberArr.length + " Average =
 `}`
 
 `let myCustomer = new Customer("Zuned" ,"Ahmed");`
+
+### Typescript offer special type of Getters And Setters Method known Accessor
+ By Default we can add getter and setters add use to access the private properties, Please <strong>CustomerV2.ts</strong>
+ 
+ We can also 
