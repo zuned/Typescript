@@ -16,7 +16,7 @@ class Customer {
 //myCustomer.lName = "Ahmed";
 
 // when constructor provided
-let myCustomer1 = new Customer("Zuned" ,"Ahmed");
+let myCustomer = new Customer("Zuned" ,"Ahmed");
 console.log(myCustomer.fName );
 console.log(myCustomer.lName );
 
