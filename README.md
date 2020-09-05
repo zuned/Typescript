@@ -72,4 +72,15 @@ console.log("Total= "+total +" Element count = " +numberArr.length + " Average =
  <strong>Solved it = </strong `tsc -target "es6" CustomerV3.ts`
 	
 
- 
+ ### tsconfig.json file
+  This file used to set the compiler flags[ target / noEmitOnError etc] and also project settings.
+  
+  To generate file `tsc --init`
+  <quote>	
+	{
+	 "compilerOptions" :{
+	  "noEmitOnError": true ,
+	  "target" : "es5"
+	  }
+	}
+</quote>
