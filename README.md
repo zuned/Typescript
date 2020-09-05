@@ -6,10 +6,10 @@
     - tsc 
  add enviornment variable  [ node npm tsc ]
 
-TypeScript code is converted to Javascript code -> This process is called as transpiling [translating + compiling ] 
-tsc will comile and generate file event there is Error. To stop this you have to use the flag noEmitOnError
+tsc ->used to generate js from ts file. This process is called as transpiling [translating + compiling ] 
+Please note tsc will comile and generate file even their are errors in ts file. To stop this you have to use the flag noEmitOnError.
 
-tsc --noEmitOnError Customer.ts
+`tsc --noEmitOnError Customer.ts`
 
 # Basics Of TypeScript
 ## To declare a variable instead var typscipt has let;
