@@ -76,11 +76,15 @@ console.log("Total= "+total +" Element count = " +numberArr.length + " Average =
   This file used to set the compiler flags[ target / noEmitOnError etc] and also project settings.
   
   To generate file `tsc --init`
-  <quote>	
-	{
+  	
+	Sample File :
+	`{
 	 "compilerOptions" :{
 	  "noEmitOnError": true ,
 	  "target" : "es5"
 	  }
-	}
-</quote>
+	}`
+
+This file has to be placed at root directory. To compile all tsc file we have to write command `tsc'
+
+
