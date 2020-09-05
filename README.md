@@ -65,6 +65,7 @@ console.log("Total= "+total +" Element count = " +numberArr.length + " Average =
  By Default we can add getter and setters add use to access the private properties, Please <strong>CustomerV2.ts</strong>
  
  We can also through <strong>Accessor</strong>, Please <strong>CustomerV3.ts</strong>. 
+ we can change the name of private variable , the accessor method is used to call getter  and setter , Please <strong>CustomerV3.ts</strong>. 
  
  <strong>Got this Error</strong> `Accessors are only available when targeting ECMAScript 5 and higher`
  
