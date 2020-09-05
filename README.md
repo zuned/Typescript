@@ -37,4 +37,4 @@ for(let i =0 ; i< numberArr.length ;i ++)
 
 console.log("Total= "+total +" Element count = " +numberArr.length + " Average ="+ total/ numberArr.length );`
    
-## class 
+## class in Typescript
