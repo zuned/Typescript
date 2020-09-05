@@ -54,3 +54,5 @@ console.log("Total= "+total +" Element count = " +numberArr.length + " Average =
 	this.lName = lName;`
  `}`
 `}`
+
+`let myCustomer = new Customer("Zuned" ,"Ahmed");`
