@@ -1,5 +1,4 @@
-# typscript
-typescript practice
+# Typscript practice
 
 ## Install
     - nodeJs
