@@ -87,4 +87,4 @@ console.log("Total= "+total +" Element count = " +numberArr.length + " Average =
 
 This file has to be placed at root directory. To compile all tsc file we have to write command `tsc'
 
-
+## Parameter Properties
