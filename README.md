@@ -67,6 +67,7 @@ console.log("Total= "+total +" Element count = " +numberArr.length + " Average =
  We can also 
  
  <strong>Got this Error</strong> `Accessors are only available when targeting ECMAScript 5 and higher`
+ 
  <strong>Solved it = </strong `tsc -target "es6" CustomerV3.ts`
 	
 
