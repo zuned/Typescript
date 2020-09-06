@@ -93,4 +93,9 @@ Check CustomerV4.ts  [ We can remove the file and add to constructor as paramete
 This help to remove boiler plate code.
 
 ## TypeScript Modules : Import And Export
+- A module can export classes, function , variable etc.
+- Another file can import classes, function , variable from module
+
+Refer the image moduleExample
+
 
