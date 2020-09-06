@@ -91,3 +91,6 @@ This file has to be placed at root directory. To compile all tsc file we have to
 Check CustomerV4.ts  [ We can remove the file and add to constructor as parameter ]
 
 This help to remove boiler plate code.
+
+## TypeScript Modules : Import And Export
+
