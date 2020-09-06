@@ -88,3 +88,6 @@ console.log("Total= "+total +" Element count = " +numberArr.length + " Average =
 This file has to be placed at root directory. To compile all tsc file we have to write command `tsc'
 
 ## Parameter Properties
+Check CustomerV4.ts  [ We can remove the file and add to constructor as parameter ]
+
+
