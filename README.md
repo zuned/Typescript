@@ -98,4 +98,4 @@ This help to remove boiler plate code.
 
 Refer the image moduleExample
 
-
+## Typescript inheritance 
