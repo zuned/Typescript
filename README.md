@@ -99,3 +99,7 @@ This help to remove boiler plate code.
 Refer the image moduleExample
 
 ## Typescript inheritance 
+- Typescript supports OOP concept inheritance
+- Subclass can extend superclass
+- Support for abract classes and method overriding
+- Supoorts on single inheritance however we extends multiple interfaces
