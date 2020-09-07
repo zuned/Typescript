@@ -17,3 +17,4 @@ for(let s of shapes)
 {
  console.log(s.getInfo());
 }
+
