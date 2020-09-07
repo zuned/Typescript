@@ -108,5 +108,9 @@ Refer the image moduleExample
 - Object creation is not allowed for abstract classes
 - Abstract method must be implemented by concrete classes
 
+### Interfaces in Typescript
+- Define a interface with method contracts
+- classes implement interfaces
+- A class can implements multiple interfaces
 
 
