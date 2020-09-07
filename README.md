@@ -103,5 +103,10 @@ Refer the image moduleExample
 - Subclass can extend superclass
 - Support for abract classes and method overriding
 - Supoorts only single inheritance however can extends multiple interfaces
+### Abstract Class 
+-Abstract class can have abstract method
+-Object creation is not allowed for abstract classes
+-Abstract method must be implemented by concrete classes
+
 
 
