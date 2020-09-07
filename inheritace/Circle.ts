@@ -10,4 +10,8 @@ getInfo() :string {
  return super.getInfo() + `, radius =${this.radius}`;
 }
 
+area():number {
+		return ( Math.PI ) * Math.pow(this.radius ,2);
+}
+
 }

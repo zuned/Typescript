@@ -10,4 +10,8 @@ getInfo() :string {
  return super.getInfo() + `, width=${this.w} , length=${this.l}`;
 }
 
+area():number {
+	return this.w * this.l;
+}
+
 }
