@@ -114,3 +114,4 @@ Refer the image moduleExample
 - A class can implements multiple interfaces
 
 
+<a href="https://www.typescriptlang.org/docs/handbook/interfaces.html"> more interfaces </a>
